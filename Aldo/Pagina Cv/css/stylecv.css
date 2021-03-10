@@ -1,0 +1,60 @@
+body{
+  background: #f2f2f2;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.box {
+  background: radial-gradient(circle at top left, #fee4ad, #5be9eb);
+  padding: 6rem 1rem;
+  margin: 4rem;
+  font-size: 100px;
+  background-size:auto;
+}
+
+.box2 {
+  background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+  padding: 15rem 15rem;
+  margin: 0rem;
+  font-size: 100px;
+  background-size:auto;
+  background-repeat: repeat;
+
+}
+
+h1{
+  color: rgba(79, 16, 182, 0.88);
+  font-size: 150px;
+  text-align: center;
+}
+
+h2{
+color: rgba(224, 149, 81, 0.96);
+font-size: 70px;
+}
+
+h3{
+  color: rgb(50, 71, 249);
+  font-size: 200px;
+}
+
+p {
+  color: rgba(131, 25, 23, 1);
+  font-size: 50px;
+}
+
+h4{
+  color: rgba(169, 16, 182, 0.88);
+  font-size: 100px;
+  text-align: center;
+}
+
+div#mydiv{
+  background-color: rgba(33, 201, 114, 0.15);
+  background-repeat: no-repeat;
+}
+
+div#seccion{
+  background-color: rgba(196, 190, 28, 0.47);
+}

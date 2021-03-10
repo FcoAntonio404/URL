@@ -1,0 +1,51 @@
+body{
+  background-image: url(../imagenes/logoapex.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  font-family: sans-serif;
+  text-align: justify;
+}
+
+H1 {
+  color: #CC9900;
+  font-size: 3rem;
+    text-align: center;
+    font-family: monospace;
+}
+
+p {
+  background-color: inherit;
+    line-height: 100%;
+    text-indent: 3em;
+    font-family: verdana;
+}
+
+li{
+  float: right;
+}
+
+a{
+  display: block;
+    padding: 8px;
+    background-color: rgba(#ffffff, 0);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(#2d275d, 0);
+}
+
+li a {
+    display: block;
+    color: red;
+    padding: 8px 0 8px 16px
+
+}
+
+li a:hover {
+    background-color: #555;
+    color: white;
+}

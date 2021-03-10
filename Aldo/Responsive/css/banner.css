@@ -1,0 +1,39 @@
+#banner{
+  margin-bottom: 100px;
+  position: relative;
+}
+
+#banner img{
+  width: 2000px;
+  height: auto;
+}
+
+#banner .contenedor{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+transform: translateX(-50%) translateY(-50%);
+color: #ffffff;
+}
+
+#banner h2{
+font-size: 100px;
+}
+
+#banner a{
+  display: block;
+  width: 190px;
+  color: inherit;
+  padding: 7px;
+  margin-top: 20px;
+  border: 1px solid #fff;
+  text-align: center;
+}
+
+#banner p{
+  font-size: 30px;
+}
+
+#banner a:hover{
+  background: rgba(0, 0, 0, 0.65);
+}

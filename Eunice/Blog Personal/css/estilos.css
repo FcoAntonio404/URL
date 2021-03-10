@@ -1,0 +1,101 @@
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@200&display=swap" rel="stylesheet">
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  background: rgb(7, 7, 7);
+
+}
+
+header{
+  width: 100%;
+  height: 70px;
+  background:rgb(231, 87, 154);
+  color: #fff;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+}
+
+.contenedor{
+  width: 98%;
+  margin: auto;
+}
+
+.container{
+  position: relative;
+}
+
+h1{
+  float: left;
+
+}
+
+header .contenedor{
+  display: table;
+}
+
+section{
+  width: 100%;
+  margin-bottom: 25px;
+}
+
+#Bienvenidos{
+  text-align:center;
+  font-size: 20px;
+}
+
+#Bienvenidos h2{
+  font-weight: bolder;
+  color: rgb(0, 0, 0);
+}
+
+#Bienvenidos p{
+  font-weight: bolder;
+  color: rgb(7, 7, 7);
+}
+
+#cont h2{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bolder;
+color: rgb(10, 10, 10);
+}
+
+footer .contenedor{
+  color: rgb(10, 10, 10);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-bottom: 25px;
+  background:rgb(231, 87, 154);
+
+}
+.copy{
+  font-size: 20px;
+}
+
+.sociales{
+  width: 100%;
+  text-align: center;
+  font-size: 28px;
+}
+
+.sociales a{
+color: #fcfcfc;
+text-decoration: none;
+}
+
+@@media (min-width: 1024px) {
+  .contenedor{
+    width: 1000px;
+  }
+}

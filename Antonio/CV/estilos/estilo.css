@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(249, 249, 249);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h1 {
+    background-color: rgb(43, 89, 47);
+    color: rgb(249, 249, 249);
+    font-size: 3rem;
+    text-align: center;
+    padding: 30px;
+}
+
+h2 {
+    
+    font-size: 2rem;
+}
+
+h3 {
+    background-color: hsl(198, 50%, 65%);
+    color: white;
+    font-size: 1.5rem;
+}
+
+p {
+    text-align: justify;
+}
+
+blockquote {
+    font-style: oblique;
+}
+
+#uno{
+    background-color: hsl(39, 83%, 46%);
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+pre {
+    background-color: white;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+address {
+    font-family: serif;
+    font-style: normal;
+    text-align: right;
+}
+div {
+    height: auto;
+    width: 600px;
+    background:  rgb(114, 165, 2);
+    margin: 20px 50px;
+    padding: 30px;
+    border: 10px;
+    display:inline-block;
+    border-radius: 5px;
+    
+}
+a {
+    font-size: 1.5rem;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(59, 21, 194);
+    
+}
+.ruta{
+    text-align:left;
+}

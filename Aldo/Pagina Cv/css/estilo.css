@@ -1,0 +1,49 @@
+body {
+    background-color: hsl(198, 50%, 85%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+h2 {
+    background-color: hsl(198, 50%, 50%);
+    font-size: 2rem;
+}
+
+h3 {
+    background-color: hsl(198, 50%, 65%);
+    color: white;
+    font-size: 1.5rem;
+}
+
+p {
+    text-align: justify;
+}
+
+blockquote {
+    font-style: oblique;
+}
+
+#uno{
+    background-color: hsl(39, 83%, 46%);
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+pre {
+    background-color: white;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+address {
+    font-family: serif;
+    font-style: normal;
+    text-align: right;
+}

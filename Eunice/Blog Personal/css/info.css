@@ -1,0 +1,23 @@
+#info {
+  background: rgba rgb(231, 87, 154);
+  color: rgb(15, 15, 15);
+  text-align: center;
+  padding: 20px;
+}
+
+#info .contenedor{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.info-propia{
+  margin: 20px;
+}
+
+.info-propia img{
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  border: 5px solid  rgb(231, 87, 154);
+}

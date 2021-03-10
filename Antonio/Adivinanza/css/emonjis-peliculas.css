@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(249, 249, 249);
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  background-color: rgb(43, 89, 47);
+  color: rgb(249, 249, 249);
+  text-transform: uppercase;
+  padding: 30px;
+}
+
+p {
+  font-size: 2rem;
+}
+
+p.intro {
+  color: hsl(35, 100%, 50%);
+}
+
+summary {
+  font-size: 4rem;
+}
+
+span.par {
+  background-color: rgb(241, 79, 14);
+}
+
+span.impar {
+  background-color: hsl(51, 89%, 47%);
+}
