@@ -7,7 +7,7 @@ body {
 h1 {
     background-color: rgb(43, 89, 47);
     color: rgb(249, 249, 249);
-    font-size: 3rem;
+    font-size: 2.2rem;
     text-align: center;
     padding: 30px;
 }
@@ -51,7 +51,7 @@ address {
 }
 div {
     height: auto;
-    width: 300px;
+    width: 360px;
     background:  rgb(114, 165, 2);
     margin: 20px 50px;
     padding: 30px;
